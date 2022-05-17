@@ -7,3 +7,4 @@ This is a sample repository/app for the Git course.
 
 ## GUI's
 * This change made by VSCode
+* This change made by Visual Studio 2022 Community Edition
